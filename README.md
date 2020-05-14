@@ -5,4 +5,4 @@ Uses ZWT as external Android Library (.aar file).
 
 Calculator Example             |  Application Menu 1
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](https://raw.githubusercontent.com/zwt-lib/zwt-android-calculator/master/images/base.png)  |  ![](https://raw.githubusercontent.com/zwt-lib/zwt-android-calculator/master/images/menu1.png)
