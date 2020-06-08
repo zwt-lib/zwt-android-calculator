@@ -1,7 +1,7 @@
 # Android Project - ZWT Calculator Example
 
 ZWT Calculator Example as Android Studio Projects.
-Uses ZWT as external Android Library (.aar file).
+Uses [ZWT](https://https://github.com/zwt-sdk/zwt) as external Android Library (.aar file).
 
 <!--- Calculator Example             |  Application Menu 1
 :-------------------------:|:-------------------------:
